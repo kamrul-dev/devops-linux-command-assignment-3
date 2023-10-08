@@ -1,4 +1,2 @@
-
-
-/os-concepts$ touch file1 file2
-/ubuntu-is-the-best$ touch file3 file4
+touch file1 file #files for os-concepts
+touch file3 file4 #files for ubuntu-is-the-best
