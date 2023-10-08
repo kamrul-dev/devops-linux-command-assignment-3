@@ -1,1 +1,1 @@
-sudo gpasswd -a user1 devops
+gpasswd -a kmhasan devops  #Add user to newly created group
